@@ -123,6 +123,7 @@ namespace Proxy
             portTextBox.Name = "portTextBox";
             portTextBox.Size = new Size(221, 31);
             portTextBox.TabIndex = 1;
+            portTextBox.Text = "10810";
             // 
             // lblPort
             // 
